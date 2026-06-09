@@ -29,3 +29,7 @@ siswa/
 ├── start.bat # Script untuk Windows (run kedua server)
 ├── start.ps1 # Script untuk PowerShell
 └── README.md # Dokumentasi project (file ini)
+
+
+untuk menjalankan web saya klik run.bat 
+jangan lupa npm i dulu 
